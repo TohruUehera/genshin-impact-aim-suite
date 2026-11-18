@@ -288,7 +288,7 @@ opening a support request.
 
 ---
 
-*genshin-impact-aim-suite · Updated 2026-11-17 · Shared under the MIT License*
+*genshin-impact-aim-suite · Updated 2026-11-18 · Shared under the MIT License*
 
 
-Updated 2026-11-17.
+Updated 2026-11-18.
