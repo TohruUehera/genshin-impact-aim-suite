@@ -288,4 +288,4 @@ opening a support request.
 
 ---
 
-*genshin-impact-aim-suite · Updated 2026-11-25 · Shared under the MIT License*
+*genshin-impact-aim-suite · Updated 2026-11-26 · Shared under the MIT License*
